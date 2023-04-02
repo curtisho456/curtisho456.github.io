@@ -1,0 +1,17 @@
+body {
+  font-family: serif;
+}
+ul {
+  padding: ;
+}
+
+li {
+  width: 650px;
+  margin: 10px;
+}
+img {
+  max-width: 100%;
+  width: 1000px;
+  display: block;
+  padding: 5px 5px 5px 5px;
+}
